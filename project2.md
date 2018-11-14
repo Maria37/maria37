@@ -193,9 +193,9 @@ TornadoesF30.triggerRepaint()
 The results that I found from these two maps were not very useful. I had thought that the most amount of tornado damage would occur in counties that had the lowest median household income because of poorer infrastructure. The results did not show that and instead seem to be random and not correlated. The darker the red, the higher the median household income!
 
 **2000s**
-![2000sMap](2000sMap.png)
-![2000sChart](2000sChart.png)
+![2000sMap](2000sMap.PNG)
+![2000sChart](2000sChart.PNG)
 
 **1990s**
-![1990sMap](1990sMap.png)
-![1990sChart](1990sChart.png)
+![1990sMap](1990sMap.PNG)
+![1990sChart](1990sChart.PNG)
