@@ -51,7 +51,7 @@ My first step was to run a Moran's I to find the correlation between average hou
 
 ![p2MoransI.JPG](p2MoransI.JPG)
 
-This is negatively correlated. It is saying that the higher the Median Household Income is, the smaller the household size is. This makes sense because if a family doesn't have children than they have more time to work and more money.
+This is negatively correlated. It is saying that the higher the Median Household Income is, the smaller the household size is. This makes sense because if a family doesn't have children then they have more time to work and more money.
 
 
 **Part 3**
