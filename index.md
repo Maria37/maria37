@@ -34,7 +34,7 @@ Lab 5 of GES 486. Learning Python!
 <div style="display:table-row; width:100%; table-layout: fixed">
 <div style="display: table-cell; width:370px; margin-right:3px" markdown="1">
   
-<div style="display: table-cell; width:370px" markdown="1">
+
 
 ### Project 2 
 
@@ -46,7 +46,7 @@ This is my project.
 
 <small>__Tools__: QGIS, Interpolation, Photoshop</small>
 
-
+<div style="display: table-cell; width:370px" markdown="1">
 </div>
 
 
