@@ -26,7 +26,7 @@ exec(open('Z:/lab_5/pygis_scripts/script8.1.py'.encode('utf-8')).read())
 ```
 
 Results:
-![8.1.png](8.1.png)
+![8.1.PNG](8.1.PNG)
 
 ### 8.2
 Code:
@@ -47,7 +47,7 @@ iface.showAttributeTable(iface.activeLayer())
 exec(open('Z:/lab_5/pygis_scripts/script8.2.py'.encode('utf-8')).read())
 ```
 Results:
-![8.2.png](8.2.png)
+![8.2.PNG](8.2.PNG)
 
 ### 8.3
 Code:
@@ -131,11 +131,11 @@ feature.setAttributes([1, 'QGIS Lane'])
 mem_layer.addFeature(feature)
 mem_layer.commitChanges()
 ```
-![figure91.jpg](figure91.jpg)
+![figure91.JPG](figure91.JPG)
 
-![figure92.jpg](figure92.jpg)
+![figure92.JPG](figure92.JPG)
 
-![figure93.jpg](figure93.jpg)
+![figure93.JPG](figure93.JPG)
 
 *3. Write a script to turn on labeling for the point layer you created and label each feature using the name field.*
 ```python
