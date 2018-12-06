@@ -37,7 +37,7 @@ This is my project.
 
 ### Final Project 
 
-![It's Fine Alt Text](project3_demo/p3_teaser.png)
+![screenshot.PNG](project_2/screenshot.PNG)
 
 [See more details here.](https://dillonma.github.io/project1_bamap/project1.html)
 
