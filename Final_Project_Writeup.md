@@ -9,5 +9,4 @@ amount correlates with socio-economic classes.
   I took this data and separated the storms by the year that they occurred and then by the state in which they occurred.  I would 
 have to join the census block group attribute table with the tornado dataset table (possibly by the state name column). If I 
 cannot find a similar column to join the two tables I will take one tornado from each year (eight tornadoes per state) and make 
-an excel table. Based on where the location of the tornadoes are I would then use the data to see if the most damage occured where the average income was lower. I would determine the percentage of damage in each social class. Then I would run a Moran’s I model 
-to see if these two factors are indeed correlated as I hypothesized. 
+an excel table. Based on where the location of the tornadoes are I would then use the data to see if the most damage occured where the average income was lower. I would determine the percentage of damage in each social class. Then I would run a Moran’s I model in GeoDa to see if these two factors are indeed correlated as I hypothesized. 
