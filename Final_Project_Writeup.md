@@ -2,9 +2,9 @@
   
 them to the monetary damage caused by tornadoes. I want to see if it is possible to predict damage and loss (both monetary 
 
-and demographical) for certain areas based on the socio-economic class. I want to be able to look at today’s economy in terms
+and demographical) for certain areas based on the socio-economic class. I want to be able to look at today’s economy in terms of
 
-of demographics and monetary value of land and account for these values in terms of storm damage. For example, do areas with 
+demographics and monetary value of land and account for these values in terms of storm damage. For example, do areas with 
 
 lower income accrue a higher percentage of damage/loss from these storms? I have data for tornadoes from the mid 1950’s to 2017. 
 
