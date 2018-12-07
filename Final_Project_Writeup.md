@@ -4,15 +4,15 @@ them to the monetary damage caused by tornadoes. I want to see if it is possible
 
 and demographical) for certain areas based on the socio-economic class. I want to be able to look at today’s economy in 
 
-terms of demographics and monetary value of land and account for these values in terms of storm damage. For example, do areas with 
+terms of demographics and monetary value of land and account for these values in terms of storm damage. For example, do 
 
-lower income accrue a higher percentage of damage/loss from these storms? I have data for tornadoes from the mid 1950’s to 
+areas with lower income accrue a higher percentage of damage/loss from these storms? I have data for tornadoes from 
 
-2017. The dataset contains the scale of the tornadoes, physical attributes of the storms, as well as the amount of damage in 
+the mid 1950’s to 2017. The dataset contains the scale of the tornadoes, physical attributes of the storms, as well as 
 
-terms of money and casualties. My goal is to look at the census data of the areas where the storms affected and determine how 
+the amount of damage in terms of money and casualties. My goal is to look at the census data of the areas where the storms 
 
-the damage amount correlates with socio-economic classes. 
+affected and determine how the damage amount correlates with socio-economic classes. 
 
   I took this data and separated the storms by the year that they occurred and then by the state in which they occurred.
   
