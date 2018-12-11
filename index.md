@@ -54,9 +54,9 @@ This is my project.
 
 ![screenshot.PNG](Project_2/screenshot.PNG)
 
-[See more details here.]()
+[See more details here.](https://github.com/Maria37/maria37.github.io/blob/master/Final_Project/final_project.md)
 
-COMING SOON
+In Progress
 
 <small>__Tools__: QGIS, Interpolation, Photoshop
 
