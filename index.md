@@ -56,7 +56,7 @@ This is my project.
 
 [See more details here.](https://github.com/Maria37/maria37.github.io/blob/master/Final_Project/final_project.md)
 
-In Progress
+In which I compare storm destruction to socio-economic class
 
 <small>__Tools__: QGIS, Interpolation, Photoshop
 
