@@ -78,3 +78,5 @@ myRenderer.setClassAttribute(myTargetField)
 myVectorLayer.setRenderer(myRenderer)
 QgsProject.instance().addMapLayer(myVectorLayer)
 ```
+Then I added in the tornado paths and it looks like this:
+![CoolMap.PNG](CoolMap.PNG)
