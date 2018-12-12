@@ -86,7 +86,7 @@ I was able to compare the damages done by the storm to the median household inco
 
 ![spatjo.PNG](spatjo.PNG)
 
-I then ran each state individually though GeoDa. I ran a Moran's I test to see if a higher amount of damage correlated to a lower median household income.
+I then ran each state individually though GeoDa. I ran a Moran's I test to see if a higher amount of damage correlated to a lower median household incomelike my hypothesis predicts. 
 
 
 **Maryland**
