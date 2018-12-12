@@ -80,3 +80,70 @@ QgsProject.instance().addMapLayer(myVectorLayer)
 ```
 Then I added in the tornado paths and it looks like this:
 ![CoolMap.PNG](CoolMap.PNG)
+
+I was able to compare the damages done by the storm to the median household income by doing a spatial join.
+![spatjo.PNG](spatjo.PNG)
+
+I then ran each state individually though GeoDa. I ran a Moran's I test to see if a higher amount of damage correlated to a lower median household income.
+
+
+**Maryland**
+
+![Maryland.PNG](Maryland.PNG)
+
+![MDFinal.PNG](MDFinal.PNG)
+
+
+**Virginia**
+
+![Virginia.PNG](Virginia.PNG)
+
+![VAFinal.PNG](VAFinal.PNG)
+
+
+**North Carolina**
+
+![NorthCarolina.PNG](NorthCarolina.PNG)
+
+![NCFinal.PNG](NCFinal.PNG)
+
+
+**South Carolina**
+
+![SouthCarolina.PNG](SouthCarolina.PNG)
+
+![SCFinal.PNG](SCFinal.PNG)
+
+
+**Missouri**
+
+![Missouri.PNG](Missouri.PNG)
+
+![MOFinal.PNG](MOFinal.PNG)
+
+
+**Kansas**
+
+![Kansas.PNG](Kansas.PNG)
+
+![KSFinal.PNG](KSFinal.PNG)
+
+
+**Oklahoma**
+
+![Oklahoma.PNG](Oklahoma.PNG)
+
+![OKFinal.PNG](OKFinal.PNG)
+
+
+**Texas**
+
+![Texas.PNG](Texas.PNG)
+
+![TXFinal.PNG](TXFinal.PNG)
+
+
+**Conclusion:**
+
+My findings concluded that my hypothesis was incorrect. It seems that there is no correlation between the amount of damage done by a storm and the median household income. This could be because many storms can pass though an area that only effects a small number of people while other storms pass through an area where many people are living such as a city. Sometimes these storm tracks are narrow and can only hit specific parts of a neighborhood such as a section where the majority of people living there 1
+
